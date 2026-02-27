@@ -53,7 +53,7 @@ const Hero = () => {
           className="animate-fade-up delay-100 text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6"
           style={{ fontFamily: 'var(--font-serif)' }}
         >
-          Samar A. <span className="gold-accent">Saleh</span>
+          <span className="gold-accent">Rezk, </span>Samar A. <span className="gold-accent">Saleh</span>
         </h1>
 
         {/* Title */}
