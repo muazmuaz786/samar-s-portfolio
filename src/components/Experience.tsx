@@ -3,7 +3,7 @@ import { Briefcase, Building2, GraduationCap, Film, Flag, Globe } from 'lucide-r
 
 const experiences = [
   {
-    title: 'Lecturer – Arabic Language and Translation',
+    title: 'Professor – Arabic Language and Translation',
     organization: 'Dankook University, Seoul',
     period: '2022–Present',
     description: 'Teaching Arabic language and translation to undergraduate students; developing course materials; supervising projects; providing cultural and linguistic guidance.',

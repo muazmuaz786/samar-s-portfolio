@@ -9,7 +9,7 @@ const researchInterests = [
 ];
 
 const skills = {
-  languages: ['Arabic (Native)', 'Korean (Fluent)', 'English (Fluent)'],
+  languages: ['Arabic (Native)', 'Korean (Native)', 'English (Fluent)'],
   teaching: ['Curriculum Design', 'Language Pedagogy', 'Student Evaluation', 'Cross-Cultural Communication'],
   academic: ['Translation Theory', 'Contrastive Linguistics', 'Academic Writing', 'Data Analysis'],
   professional: ['Consecutive Interpretation', 'Medical & Legal Translation', 'Microsoft Office', 'CAT Tools'],
@@ -133,7 +133,7 @@ const Research = () => {
               </h4>
               <div className="space-y-4">
                 <div className="border-l-2 border-accent pl-4">
-                  <p className="font-medium text-foreground">Lecturer – Dankook University</p>
+                  <p className="font-medium text-foreground">Professor – Dankook University</p>
                   <p className="text-sm text-muted-foreground">2022–Present</p>
                 </div>
                 <div className="border-l-2 border-border pl-4">

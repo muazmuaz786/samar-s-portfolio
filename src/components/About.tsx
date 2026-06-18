@@ -1,8 +1,9 @@
 import { useEffect, useRef, useState } from 'react';
-import { BookOpen, Scale, Stethoscope, Languages, Award, Users } from 'lucide-react';
+import { BookOpen, Scale, Stethoscope, Languages, Award, Users, GraduationCap } from 'lucide-react';
 
 const competencies = [
   { icon: Languages, label: 'Arabic–Korean–English Translation & Interpretation' },
+  { icon: GraduationCap, label: 'Teaching & Language Instruction' },
   { icon: Scale, label: 'Legal, Medical, and Diplomatic Translation' },
   { icon: BookOpen, label: 'Subtitling and Media Localization' },
   { icon: Users, label: 'Cross-Cultural Communication' },
@@ -55,7 +56,7 @@ const About = () => {
                 organizations, embassies, and major institutions.
               </p>
               <p>
-                Dedicated lecturer and researcher specializing in Arabic language education, 
+                Dedicated professor and researcher specializing in Arabic language education,
                 translation, and cross-cultural communication. Passionate about advancing 
                 intercultural understanding through effective language instruction and research.
               </p>

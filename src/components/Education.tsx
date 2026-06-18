@@ -8,6 +8,7 @@ const education = [
     year: '2023',
     major: 'Translation & Interpretation Studies KFLT',
     grade: 'GPA 93.7',
+    thesis: 'A Study on Translation Strategies for Arabic–Korean Figurative Expressions',
     highlight: true,
   },
   {
@@ -117,6 +118,12 @@ const Education = () => {
                       </h4>
                       <p className="text-accent font-medium text-sm mb-2">{edu.school}</p>
                       <p className="text-muted-foreground text-sm">{edu.major}</p>
+                      {edu.thesis && (
+                        <p className="text-muted-foreground text-sm mt-2">
+                          <span className="font-medium text-foreground">Dissertation: </span>
+                          <span className="italic">{edu.thesis}</span>
+                        </p>
+                      )}
                     </div>
                     <div className="flex flex-col items-start md:items-end gap-1">
                       <span className="px-3 py-1 rounded-full bg-secondary text-xs font-medium text-muted-foreground">

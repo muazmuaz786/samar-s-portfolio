@@ -61,7 +61,7 @@ const Hero = () => {
           Arabic–Korean Translator & Interpreter
         </p>
         <p className="animate-fade-up delay-300 text-lg text-muted-foreground/80 mb-12 max-w-2xl mx-auto">
-          Lecturer • Researcher • Cross-Cultural Communication Specialist
+          Professor • Researcher • Cross-Cultural Communication Specialist
         </p>
 
         {/* Contact Info */}
@@ -91,7 +91,7 @@ const Hero = () => {
         {/* Languages */}
         <div className="animate-fade-up delay-500 flex flex-wrap justify-center gap-3">
           <span className="skill-tag">Arabic (Native)</span>
-          <span className="skill-tag">Korean (Fluent)</span>
+          <span className="skill-tag">Korean (Native)</span>
           <span className="skill-tag">English (Fluent)</span>
         </div>
 
