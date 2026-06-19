@@ -9,7 +9,7 @@ const researchInterests = [
 ];
 
 const skills = {
-  languages: ['Arabic (Native)', 'Korean (Native)', 'English (Fluent)'],
+  languages: ['Arabic (Native)', 'Korean (Native level)', 'English (Fluent)'],
   teaching: ['Curriculum Design', 'Language Pedagogy', 'Student Evaluation', 'Cross-Cultural Communication'],
   academic: ['Translation Theory', 'Contrastive Linguistics', 'Academic Writing', 'Data Analysis'],
   professional: ['Consecutive Interpretation', 'Medical & Legal Translation', 'Microsoft Office', 'CAT Tools'],

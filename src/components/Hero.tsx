@@ -91,7 +91,7 @@ const Hero = () => {
         {/* Languages */}
         <div className="animate-fade-up delay-500 flex flex-wrap justify-center gap-3">
           <span className="skill-tag">Arabic (Native)</span>
-          <span className="skill-tag">Korean (Native)</span>
+          <span className="skill-tag">Korean (Native level)</span>
           <span className="skill-tag">English (Fluent)</span>
         </div>
 

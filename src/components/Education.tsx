@@ -5,7 +5,7 @@ const education = [
   {
     degree: 'Ph.D.',
     school: 'Graduate School, Hanguk University of Foreign Studies, Seoul',
-    year: '2023',
+    year: '2026',
     major: 'Translation & Interpretation Studies KFLT',
     grade: 'GPA 93.7',
     thesis: 'A Study on Translation Strategies for Arabic–Korean Figurative Expressions',
