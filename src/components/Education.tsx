@@ -3,7 +3,7 @@ import { GraduationCap, Award, CheckCircle2 } from 'lucide-react';
 
 const education = [
   {
-    degree: 'Ph.D. Coursework Completed (수료)',
+    degree: 'Ph.D.',
     school: 'Graduate School, Hanguk University of Foreign Studies, Seoul',
     year: '2023',
     major: 'Translation & Interpretation Studies KFLT',
